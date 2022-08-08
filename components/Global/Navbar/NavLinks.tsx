@@ -13,9 +13,7 @@ function NavLinks() {
   const router = useRouter();
 
   function addActiveClass(path: any) {
-    return router.pathname === path
-      ? "text-primary "
-      : "text-white";
+    return router.pathname === path ? "text-primary " : "text-[#000000]";
   }
 
   return (

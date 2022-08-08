@@ -27,7 +27,7 @@ function Navbar() {
           ></div>
           <div
             onClick={() => setOpenNavbar(!openNavbar)}
-            className="block lg:hidden text-white"
+            className="block lg:hidden text-black"
           >
             <MenuIcon />
           </div>

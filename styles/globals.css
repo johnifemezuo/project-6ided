@@ -36,6 +36,7 @@ input[type=checkbox]:checked+label {
 
 .lingH12 {
     line-height: 12rem;
+   
   }
 
   .stroke {
@@ -73,7 +74,12 @@ input[type=checkbox]:checked+label {
     overflow: hidden;
   }
   .bgimg {
-    background-image: url('/images/vector.webp')
+    background-image: url('/images/herowall.png');
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+
   }
   .bgimgMap {
     background-image: url('/images/map.webp')

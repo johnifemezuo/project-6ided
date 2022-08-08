@@ -45,10 +45,10 @@ function ActivitiesSection() {
               </h2>
             </div>
 
-            <img
-              src="/images/glow.png"
-              className="hidden lg:block lg:w-[40%] h-[600px]"
-            />
+              <img
+                src="/images/Subtraction.svg"
+                className="hidden lg:block lg:w-[40%] pl-12 h-[600px]"
+              />
           </div>
 
           <div className="mx-auto w-[200px]">

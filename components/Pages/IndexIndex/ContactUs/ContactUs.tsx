@@ -79,7 +79,7 @@ function ContactUs() {
 
   return (
     <div
-      className="bg-[#0288FA] px-4 lg:px-0 py-12 lg:py-20  relative h-[1100px] lg:h-[1200px]"
+      className="bg-[#0288FA] px-4 lg:px-0 py-12 lg:py-20  relative h-[1260px] md:h-[1200px]"
       id="contact"
     >
       <div>
